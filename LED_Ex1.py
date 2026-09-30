@@ -1,5 +1,6 @@
 
 #git clone https://github.com/Majdawad88/ECET411_LED_Ex1.git
+# If ctr z used to exit use kill -9 %4
 
 import RPi.GPIO as GPIO
 import time
